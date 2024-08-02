@@ -6,3 +6,8 @@ if a > 9:
 else:
     print("a is smaller")
 print("code completed  successfully")
+
+fruit = ["apple","jackfruit"]
+
+for i in fruit:
+    print(i)

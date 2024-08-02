@@ -5,4 +5,4 @@ if a > 9:
     print("a is greater")
 else:
     print("a is smaller")
-print("code completed")
+print("code completed  successfully")
